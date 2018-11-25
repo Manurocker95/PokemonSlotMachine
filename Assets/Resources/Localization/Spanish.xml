@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<NewDataSet>
+  <Language>Spanish</Language>
+  <Table1>
+    <Key>LoadingText</Key>
+    <Text>Cargando...</Text>
+  </Table1>
+  <Table1>
+    <Key>continueText</Key>
+    <Text>Continuar Partida</Text>
+  </Table1>
+  <Table1>
+    <Key>newGameText</Key>
+    <Text>Nueva Partida</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsText</Key>
+    <Text>Opciones</Text>
+  </Table1>
+  <Table1>
+    <Key>creditsText</Key>
+    <Text>Créditos</Text>
+  </Table1>
+  <Table1>
+    <Key>exitText</Key>
+    <Text>Salir del Juego</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsTitleText</Key>
+    <Text>OPCIONES</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsVolumeText</Key>
+    <Text>Volumen</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsGraphicsText</Key>
+    <Text>Gráficos</Text>
+  </Table1>
+  <Table1>
+    <Key>languageText</Key>
+    <Text>Idioma</Text>
+  </Table1>
+  <Table1>
+    <Key>backText</Key>
+    <Text>Atrás</Text>
+  </Table1>
+  <Table1>
+    <Key>creditsTitleText</Key>
+    <Text>CRÉDITOS</Text>
+  </Table1>
+  <Table1>
+    <Key>creditsMainText</Key>
+    <Text>Hecho Por:
+
+      Ricardo Barajas
+      Manuel Rodríguez
+      Javier Salcedo
+    </Text>
+  </Table1>
+  <Table1>
+    <Key>Ultra</Key>
+    <Text>Ultra</Text>
+  </Table1>
+  <Table1>
+    <Key>Very High</Key>
+    <Text>Muy Alta</Text>
+  </Table1>  
+  <Table1>
+    <Key>High</Key>
+    <Text>Alta</Text>
+  </Table1>  
+  <Table1>
+    <Key>Medium</Key>
+    <Text>Media</Text>
+  </Table1>  
+  <Table1>
+    <Key>Low</Key>
+    <Text>Baja</Text>
+  </Table1>  
+  <Table1>
+    <Key>Very Low</Key>
+    <Text>Muy Baja</Text>
+  </Table1>  
+  <Table1>
+    <Key>Spanish</Key>
+    <Text>Español</Text>
+  </Table1>
+  <Table1>
+    <Key>English</Key>
+    <Text>Inglés</Text>
+  </Table1>
+  <Table1>
+    <Key>Italian</Key>
+    <Text>Italiano</Text>
+  </Table1>
+  <Table1>
+    <Key>resumeText</Key>
+    <Text>Continuar</Text>
+  </Table1>
+  <Table1>
+    <Key>backToMenuText</Key>
+    <Text>Ir al menú</Text>
+  </Table1>  
+  <Table1>
+    <Key>ConfirmNotPressedText</Key>
+    <Text>El input Confirmar no está presionado.</Text>
+  </Table1>  
+  <Table1>
+    <Key>ConfirmPressedText</Key>
+    <Text>El input Confirmar está presionado.</Text>
+  </Table1>
+  <Table1>
+    <Key>Test</Key>
+    <Text>Prueba</Text>
+  </Table1>
+  <Table1>
+    <Key>TestDesc</Key>
+    <Text>Descripción de prueba</Text>
+  </Table1>
+</NewDataSet>

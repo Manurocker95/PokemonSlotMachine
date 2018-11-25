@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<NewDataSet>
+  <Language>English</Language>
+  <Table1>
+    <Key>LoadingText</Key>
+    <Text>Loading...</Text>
+  </Table1>
+  <Table1>
+    <Key>continueText</Key>
+    <Text>Continue</Text>
+  </Table1>
+  <Table1>
+    <Key>newGameText</Key>
+    <Text>New Game</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsText</Key>
+    <Text>Settings</Text>
+  </Table1>
+  <Table1>
+    <Key>creditsText</Key>
+    <Text>Credits</Text>
+  </Table1>
+  <Table1>
+    <Key>exitText</Key>
+    <Text>Exit Game</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsTitleText</Key>
+    <Text>SETTINGS</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsVolumeText</Key>
+    <Text>Volume</Text>
+  </Table1>
+  <Table1>
+    <Key>optionsGraphicsText</Key>
+    <Text>Graphics</Text>
+  </Table1>
+  <Table1>
+    <Key>languageText</Key>
+    <Text>Language</Text>
+  </Table1>
+  <Table1>
+    <Key>backText</Key>
+    <Text>Back</Text>
+  </Table1>
+  <Table1>
+    <Key>creditsTitleText</Key>
+    <Text>CREDITS</Text>
+  </Table1>
+  <Table1>
+    <Key>creditsMainText</Key>
+    <Text>Made By:
+
+      Ricardo Barajas
+      Manuel Rodríguez
+      Javier Salcedo
+    </Text>
+  </Table1>
+  <Table1>
+    <Key>Ultra</Key>
+    <Text>Ultra</Text>
+  </Table1>
+  <Table1>
+    <Key>Very High</Key>
+    <Text>Very High</Text>
+  </Table1>
+  <Table1>
+    <Key>High</Key>
+    <Text>High</Text>
+  </Table1>
+  <Table1>
+    <Key>Medium</Key>
+    <Text>Medium</Text>
+  </Table1>
+  <Table1>
+    <Key>Low</Key>
+    <Text>Low</Text>
+  </Table1>
+  <Table1>
+    <Key>Very Low</Key>
+    <Text>Very Low</Text>
+  </Table1>
+  <Table1>
+    <Key>Spanish</Key>
+    <Text>Spanish</Text>
+  </Table1>
+  <Table1>
+    <Key>English</Key>
+    <Text>English</Text>
+  </Table1>
+  <Table1>
+    <Key>Italian</Key>
+    <Text>Italian</Text>
+  </Table1>
+  <Table1>
+    <Key>resumeText</Key>
+    <Text>Resume</Text>
+  </Table1>
+  <Table1>
+    <Key>backToMenuText</Key>
+    <Text>Back To Menu</Text>
+  </Table1>
+  <Table1>
+    <Key>ConfirmNotPressedText</Key>
+    <Text>The confirm input is not pressed.</Text>
+  </Table1>
+  <Table1>
+    <Key>ConfirmPressedText</Key>
+    <Text>The confirm input is pressed.</Text>
+  </Table1>
+  <Table1>
+    <Key>Test</Key>
+    <Text>Test.</Text>
+  </Table1>
+  <Table1>
+    <Key>TestDesc</Key>
+    <Text>Test Description.</Text>
+  </Table1>
+</NewDataSet>
