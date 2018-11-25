@@ -17,3 +17,5 @@ Totally open source as long as credits are given.
 Game data is stored in C/User/Documents/Pokemon Slot Machine/save.gameData
 
 ![alt text](https://i.imgur.com/NWAl3yW.png)
+
+Itch.io: https://manurocker95.itch.io/pokmon-slot-machine
