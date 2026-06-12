@@ -15,6 +15,20 @@ namespace PokemonCasino
         public int Coins { get { return m_coins; } set { m_coins = value; } }
         public bool HasCoinCase { get { return m_hasCoinCase; } set { m_hasCoinCase = value; } }
 
+        protected override void Initialize()
+        {
+            base.Initialize();
+            if (m_coins <= 0)
+                InitData(100, true);
+        }
+
+        protected override void Awake()
+        {
+            base.Awake();
+            if (m_coins <= 0)
+                InitData(100, true);
+        }
+
         // Use this for initialization
         void Start()
         {
